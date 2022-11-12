@@ -3,3 +3,13 @@ C:\Users\Tanya\Downloads\тестировщик\lessonCSh9\homework\68FunctionAk
 C:\Users\Tanya\Downloads\тестировщик\lessonCSh9\homework\68FunctionAkkermanRecursion\obj\Debug\net6.0\68FunctionAkkermanRecursion.AssemblyInfoInputs.cache
 C:\Users\Tanya\Downloads\тестировщик\lessonCSh9\homework\68FunctionAkkermanRecursion\obj\Debug\net6.0\68FunctionAkkermanRecursion.AssemblyInfo.cs
 C:\Users\Tanya\Downloads\тестировщик\lessonCSh9\homework\68FunctionAkkermanRecursion\obj\Debug\net6.0\68FunctionAkkermanRecursion.csproj.CoreCompileInputs.cache
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh9\homework\68FunctionAkkermanRecursion\bin\Debug\net6.0\68FunctionAkkermanRecursion.exe
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh9\homework\68FunctionAkkermanRecursion\bin\Debug\net6.0\68FunctionAkkermanRecursion.deps.json
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh9\homework\68FunctionAkkermanRecursion\bin\Debug\net6.0\68FunctionAkkermanRecursion.runtimeconfig.json
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh9\homework\68FunctionAkkermanRecursion\bin\Debug\net6.0\68FunctionAkkermanRecursion.dll
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh9\homework\68FunctionAkkermanRecursion\bin\Debug\net6.0\68FunctionAkkermanRecursion.pdb
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh9\homework\68FunctionAkkermanRecursion\obj\Debug\net6.0\68FunctionAkkermanRecursion.dll
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh9\homework\68FunctionAkkermanRecursion\obj\Debug\net6.0\refint\68FunctionAkkermanRecursion.dll
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh9\homework\68FunctionAkkermanRecursion\obj\Debug\net6.0\68FunctionAkkermanRecursion.pdb
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh9\homework\68FunctionAkkermanRecursion\obj\Debug\net6.0\68FunctionAkkermanRecursion.genruntimeconfig.cache
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh9\homework\68FunctionAkkermanRecursion\obj\Debug\net6.0\ref\68FunctionAkkermanRecursion.dll

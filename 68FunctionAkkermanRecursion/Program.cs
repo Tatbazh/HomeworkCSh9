@@ -8,13 +8,14 @@ int FunctionAkkerman(int m, int n)
         return n + 1;
     }
     else if (m > 0 && n == 0)
+    {
+        return FunctionAkkerman(m - 1, 1);
+    }
+    else if (m > 0 && n > 0)
+    return FunctionAkkerman(m - 1, FunctionAkkerman(m, n - 1));
+    else 
+        return 1; 
     
-        return 1 + FunctionAkkerman(m - 1, n);
-    
-    // else if (m > 0 && n > 0)
-    // {
-    //     return ;
-    // }
 }
 
 Console.Write("Введите целое неотрицательное число M: ");
@@ -22,4 +23,4 @@ int m = int.Parse(Console.ReadLine()!);
 Console.Write("Введите целое неотрицательное число N: ");
 int n = int.Parse(Console.ReadLine()!);
 
-Console.Write($"Функция Аккермана для {m} и {n} = {FunctionAkkerman(m,n)}");
+Console.Write($"Функция Аккермана для {m} и {n} = {FunctionAkkerman(m, n)}");
