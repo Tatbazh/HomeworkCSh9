@@ -1,0 +1,15 @@
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh9\homework\66SumBetweenIntervalRecursion\bin\Debug\net6.0\66SumBetweenIntervalRecursion.exe
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh9\homework\66SumBetweenIntervalRecursion\bin\Debug\net6.0\66SumBetweenIntervalRecursion.deps.json
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh9\homework\66SumBetweenIntervalRecursion\bin\Debug\net6.0\66SumBetweenIntervalRecursion.runtimeconfig.json
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh9\homework\66SumBetweenIntervalRecursion\bin\Debug\net6.0\66SumBetweenIntervalRecursion.dll
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh9\homework\66SumBetweenIntervalRecursion\bin\Debug\net6.0\66SumBetweenIntervalRecursion.pdb
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh9\homework\66SumBetweenIntervalRecursion\obj\Debug\net6.0\66SumBetweenIntervalRecursion.csproj.AssemblyReference.cache
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh9\homework\66SumBetweenIntervalRecursion\obj\Debug\net6.0\66SumBetweenIntervalRecursion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh9\homework\66SumBetweenIntervalRecursion\obj\Debug\net6.0\66SumBetweenIntervalRecursion.AssemblyInfoInputs.cache
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh9\homework\66SumBetweenIntervalRecursion\obj\Debug\net6.0\66SumBetweenIntervalRecursion.AssemblyInfo.cs
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh9\homework\66SumBetweenIntervalRecursion\obj\Debug\net6.0\66SumBetweenIntervalRecursion.csproj.CoreCompileInputs.cache
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh9\homework\66SumBetweenIntervalRecursion\obj\Debug\net6.0\66SumBetweenIntervalRecursion.dll
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh9\homework\66SumBetweenIntervalRecursion\obj\Debug\net6.0\refint\66SumBetweenIntervalRecursion.dll
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh9\homework\66SumBetweenIntervalRecursion\obj\Debug\net6.0\66SumBetweenIntervalRecursion.pdb
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh9\homework\66SumBetweenIntervalRecursion\obj\Debug\net6.0\66SumBetweenIntervalRecursion.genruntimeconfig.cache
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh9\homework\66SumBetweenIntervalRecursion\obj\Debug\net6.0\ref\66SumBetweenIntervalRecursion.dll

@@ -1,0 +1,5 @@
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh9\homework\68FunctionAkkermanRecursion\obj\Debug\net6.0\68FunctionAkkermanRecursion.csproj.AssemblyReference.cache
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh9\homework\68FunctionAkkermanRecursion\obj\Debug\net6.0\68FunctionAkkermanRecursion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh9\homework\68FunctionAkkermanRecursion\obj\Debug\net6.0\68FunctionAkkermanRecursion.AssemblyInfoInputs.cache
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh9\homework\68FunctionAkkermanRecursion\obj\Debug\net6.0\68FunctionAkkermanRecursion.AssemblyInfo.cs
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh9\homework\68FunctionAkkermanRecursion\obj\Debug\net6.0\68FunctionAkkermanRecursion.csproj.CoreCompileInputs.cache

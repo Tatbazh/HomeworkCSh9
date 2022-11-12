@@ -1,0 +1,15 @@
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh9\homework\65ReverseRecursion\bin\Debug\net6.0\65ReverseRecursion.exe
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh9\homework\65ReverseRecursion\bin\Debug\net6.0\65ReverseRecursion.deps.json
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh9\homework\65ReverseRecursion\bin\Debug\net6.0\65ReverseRecursion.runtimeconfig.json
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh9\homework\65ReverseRecursion\bin\Debug\net6.0\65ReverseRecursion.dll
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh9\homework\65ReverseRecursion\bin\Debug\net6.0\65ReverseRecursion.pdb
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh9\homework\65ReverseRecursion\obj\Debug\net6.0\65ReverseRecursion.csproj.AssemblyReference.cache
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh9\homework\65ReverseRecursion\obj\Debug\net6.0\65ReverseRecursion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh9\homework\65ReverseRecursion\obj\Debug\net6.0\65ReverseRecursion.AssemblyInfoInputs.cache
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh9\homework\65ReverseRecursion\obj\Debug\net6.0\65ReverseRecursion.AssemblyInfo.cs
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh9\homework\65ReverseRecursion\obj\Debug\net6.0\65ReverseRecursion.csproj.CoreCompileInputs.cache
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh9\homework\65ReverseRecursion\obj\Debug\net6.0\65ReverseRecursion.dll
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh9\homework\65ReverseRecursion\obj\Debug\net6.0\refint\65ReverseRecursion.dll
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh9\homework\65ReverseRecursion\obj\Debug\net6.0\65ReverseRecursion.pdb
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh9\homework\65ReverseRecursion\obj\Debug\net6.0\65ReverseRecursion.genruntimeconfig.cache
+C:\Users\Tanya\Downloads\тестировщик\lessonCSh9\homework\65ReverseRecursion\obj\Debug\net6.0\ref\65ReverseRecursion.dll
